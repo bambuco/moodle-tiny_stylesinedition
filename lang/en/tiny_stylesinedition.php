@@ -27,7 +27,7 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['css'] = 'Plain CSS styles';
 $string['css_help'] = 'Define here the regular CSS styles that will be included in the editor.';
-$string['scss'] = 'Custom SCSS styles';
-$string['scss_help'] = 'Define here the SCSS styles that will be included in the editor.';
 $string['pluginname'] = 'Styles in edition';
 $string['privacy:metadata'] = 'The Stylesinedition plugin doesn\'t store any personal data.';
+$string['scss'] = 'Custom SCSS styles';
+$string['scss_help'] = 'Define here the SCSS styles that will be included in the editor.';
