@@ -31,3 +31,4 @@ $string['pluginname'] = 'Styles in edition';
 $string['privacy:metadata'] = 'The Stylesinedition plugin doesn\'t store any personal data.';
 $string['scss'] = 'Custom SCSS styles';
 $string['scss_help'] = 'Define here the SCSS styles that will be included in the editor.';
+$string['stylesinedition:use'] = 'Use Styles in edition tiny plugin';
